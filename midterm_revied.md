@@ -1,17 +1,8 @@
-MIDTERM REVIEW
-Looking at the first five assignments, discuss how you learned from any mistakes you made. Repeating mistakes is a sign that your learning needs to be improved. If you have repeated mistakes, discuss how you learning will be improved in the second half of the course. Typical mistakes for this discussion include:
+Midterm Review
+At the beginning of this course, I underestimated how demanding it would be. On the first day, we started with basic terms and definitions that I had seen before through my experience with SQL and R-Studio. However, by the end of that first lesson, I realized this class would be very different from what I expected. On the second day, Professor Irakliotis warned us about the speed and amount of material we would cover in just six weeks. His words made me nervous—covering the basics of Python programming in such a short time seemed impossible.
 
-code that doesn't execute (even in one assignment);
-lack of comments;
-Missed assignments (even when due to not committing/synchronizing your CodeSpaces);
-Looking at your course engagement over the first six weeks, discuss how you've managed so far. The ideal standard is that you treat the course as a job that you like, that you wish to keep, and in which you aspire to grow and be promoted. Factors to consider include:
+By the end of the first week, I fully understood the challenge ahead. Fortunately, I completed the first assignment on time and with good accuracy. In the second week, the material became more complex, but I managed to keep up with the help of classmates, a personal friend, and online resources like YouTube. Although the homework took me a few days to complete, I learned a lot from the process.
 
-Timeliness -- joining the class meeting on time
-Consistency -- not missing classes (except for university-justified absences)
-Participation -- asking questions, answering questions
-Proactiveness -- each out to the instructor with any difficulties you encounter, in a way that allows a timely resolution
-Initiative -- trying additiona problems from the book and discussing them with the instructor; learning something new, like writing your reflections in MarkDown.
-Commitment: studying/working on the course for ~3 hours per hour class-hour, i.e., 9 hours per week in addition to coming to class.
-Your discussion for the above should be in the form of a well-written essay, 200-300 words.
+However, by the third week, I began falling behind. I missed classes and did not finish the third week’s assignment. The fourth week was even worse—I missed all my classes and struggled through the homework, but I still managed to complete it with satisfactory results. This week was no better I again missed all my classes, but still managed to pull through with my homework, just in time.
 
-MIDTERM REVIEW
+Overall, my progress started strong but declined due to a lack of discipline and poor attendance. I realize now that I need to take responsibility for my learning. Moving forward, I must attend every class, manage my time better, and stay committed to my studies to catch up and succeed in this course.
